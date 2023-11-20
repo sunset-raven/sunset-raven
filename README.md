@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunset-raven&label=Profile%20views&color=0e75b6&style=flat" alt="sunset-raven" /> </p>
 
-- 🔭 Estou trabalhando em: **Projeto Conexão**
+- 🔭 Estou trabalhando em: [Projeto Conexão](https://github.com/sunset-raven/on20-projeto-final)
 
-- 🌱 Estou atualmente aprendendo: **JavaScript e React, no momento**
+- 🌱 Estou atualmente aprendendo: **JavaScript e React**
 
 - 👨‍💻 Todos os meus projetos estão em: [https://github.com/sunset-raven](https://github.com/sunset-raven)
 
-- 💬 Pergunte-me sobre: **js, react, html, css**
+- 💬 Pergunte-me sobre: **javascript, react, html, css**
 
 - 📫 Como me contatar: **andreavetterda@gmail.com**
 
 - 📄 Conheça minhas experiências: [https://drive.google.com/file/d/1QoNhl6PYCiHabK-OWNU9YbMBH0Llvllj/view?usp=sharing](https://drive.google.com/file/d/1QoNhl6PYCiHabK-OWNU9YbMBH0Llvllj/view?usp=sharing)
 
-- ⚡ Fato curioso **Você sabia que os médicos recomendam beber 35ml de água pra cada kg que pesamos?**
+- ⚡ Fato curioso: **Você sabia que os médicos recomendam beber 35ml de água pra cada kg que pesamos?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunset-raven&show_icons=true&locale=en&layout=compact" alt="sunset-raven" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunset-raven&show_icons=true&locale=en" alt="sunset-raven" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunset-raven&" alt="sunset-raven" /></p>
