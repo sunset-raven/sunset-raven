@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunset-raven&label=Profile%20views&color=0e75b6&style=flat" alt="sunset-raven" /> </p>
 
-- 🔭 Estou trabalhando em: [Projeto Conexão](https://github.com/sunset-raven/on20-projeto-final)
+- 🔭 Estou trabalhando em: [Projeto Conexão 2](https://github.com/sunset-raven/projeto-conexao-2)
 
 - 🌱 Estou atualmente aprendendo: **JavaScript e React**
 
